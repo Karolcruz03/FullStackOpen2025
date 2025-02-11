@@ -1,0 +1,35 @@
+p {
+    /*color: red;*/
+    width: 500px;
+    border: 1px solid black;
+}
+
+p, li, h1 {
+    color: blue;
+}
+
+html{
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #00539f;
+}
+h1{
+    font-size: 60px;
+}
+p,li {
+    font-size: 16px;
+    line-height: 2; /*ancho de linea*/
+    letter-spacing: 1px; /*Espacio entre letras*/
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+img{
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
